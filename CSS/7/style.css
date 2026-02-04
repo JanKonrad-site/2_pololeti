@@ -76,6 +76,8 @@ background: purple;
 width: 50%;
 height: 300px;
 margin: 0 auto;
+display: grid;
+place-items: center;
 }
 
 .center-text{
@@ -84,4 +86,6 @@ width: 50%;
 height: 50%;
 text-align: center;
 align-content: center;
+
+
 }
